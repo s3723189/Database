@@ -9,15 +9,6 @@
       "accType": "c",
       "address": "Wilmer Court",
       "phone": "1234512345" 
-      },
-      {
-        "userId" : 2,
-      "name": "Bob",
-      "username": "s3123123",
-      "password": "12345",
-      "accType": "c",
-      "address": "WilkinsonStreet",
-      "phone": "1234512345"
       }
     ]
 }
