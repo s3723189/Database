@@ -4,7 +4,7 @@
       "name": "Gabriel",
       "username": "s3723189",
       "password": "12345",
-      "accType": 'c',
+      "accType": "c",
       "address": "Wilmer Court",
       "phone": "1234512345" 
   },
@@ -13,7 +13,7 @@
       "name": "Bob",
       "username": "s3123123",
       "password": "12345",
-      "accType": 'c',
+      "accType": "c",
       "address": "WilkinsonStreet",
       "phone": "1234512345"
    
