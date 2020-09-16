@@ -2,16 +2,22 @@
   "persons":
   [
       {
-        "userId": 1,
-        "id": 1,
-        "title": "delectus aut autem",
-        "completed": false
+        "userId" : 1,
+      "name": "Gabriel",
+      "username": "s3723189",
+      "password": "12345",
+      "accType": "c",
+      "address": "Wilmer Court",
+      "phone": "1234512345" 
       },
       {
-        "userId": 1,
-        "id": 2,
-        "title": "quis ut nam facilis et officia qui",
-        "completed": false
+        "userId" : 2,
+      "name": "Bob",
+      "username": "s3123123",
+      "password": "12345",
+      "accType": "c",
+      "address": "WilkinsonStreet",
+      "phone": "1234512345"
       }
     ]
 }
