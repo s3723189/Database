@@ -1,5 +1,8 @@
-{
   
+{
+  "persons":
+  [
+      {
         "userId" : 1,
       "name": "Gabriel",
       "username": "s3723189",
@@ -7,5 +10,6 @@
       "accType": "c",
       "address": "Wilmer Court",
       "phone": "1234512345" 
-     
+      }
+    ]
 }
